@@ -1,0 +1,52 @@
+Input:
+0 0
+Output:
+0 0
+
+Input:
+10 25
+Output:
+-1
+
+
+Input:
+100 200
+Output:
+100 0
+
+
+Input:
+50 200
+Output:
+0 50
+
+
+Input:
+300 400
+Output:
+-1
+
+
+Input:
+1000000 3000000
+Output:
+500000 500000
+
+
+Input:
+1000000 2500000
+Output:
+-1
+
+
+
+Input:
+0 1000000
+Output:
+-1
+
+
+Input:
+600 1800
+Output:
+300 300
